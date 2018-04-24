@@ -1,0 +1,4 @@
+﻿  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  lb4.vcxproj -> C:\Users\Таня\Desktop\AiSD\ParallelProgramming\Debug\lb4.exe
+  lb4.vcxproj -> C:\Users\Таня\Desktop\AiSD\ParallelProgramming\Debug\lb4.pdb (Partial PDB)
