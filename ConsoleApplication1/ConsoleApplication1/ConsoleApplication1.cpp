@@ -17,6 +17,7 @@ int main(int argc, char* argv[])
 	endwtime = MPI_Wtime();
 	printf("Hello world from process %d of %d at %s as %f second \n", rank, size, name,
 		endwtime - startwtime);
+	printf("Changes done");
 	MPI_Finalize();
 	return 0;
 }
